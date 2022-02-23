@@ -1,7 +1,7 @@
 # isi-gci
 Collaborative space for IS-GC project
 
-These are results from two rounds of data collection, one in the United States and the other in Japan. The process of translating  the English (original) survey instrument into Japanese was published [here](https://iccglobal.org/2020/09/30/applicability-of-gci-and-isi-in-japanese-educational-environment/).
+These are results from two rounds of data collection, one in the United States and the other in Japan. The process of translating  the English (original) survey instrument into Japanese was published [here](https://iccglobal.org/2020/09/30/applicability-of-gci-and-isi-in-japanese-educational-environment/). The US data file has undergone cleaning and processing, while the Japan data is signficantly more "raw."
 
 ## Data description
 
