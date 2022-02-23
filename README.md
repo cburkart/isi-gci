@@ -14,8 +14,8 @@ The survey instrument questions can be put in three categories:
 
 A link to example survey instruments will be added here. A combination of paper and online surveys was used.
 
-$ISx$ (where $1 < x <= $) - questions realated to ISI measurement
+ISx (where 1 < x <= 25) - questions realated to ISI measurement
 
-$GCx$ (where $1 < x <= $) - questions realated to GCI measurement
+GCx (where 1 < x <= 24) - questions realated to GCI measurement
 
-
+Demographics to be fleshed out later, particularly those common to both country surveys.
